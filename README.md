@@ -1,3 +1,3 @@
-# Datacamp Folder
+# Courses Folder
 
-This folder should be used to organize GitHub repositories related to datacamp coursework and files.
+This folder should be used to organize GitHub repositories related to various online courses and associated files.
